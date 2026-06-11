@@ -62,16 +62,6 @@
 
 ---
 
-### 🏆 Trophées
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=valdouz&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Trophées GitHub" />
-
-</div>
-
----
-
 ### 🌐 Où me trouver
 
 <div align="center">
