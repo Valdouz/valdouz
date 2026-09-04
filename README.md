@@ -2,7 +2,7 @@
 
 <!-- ===================== EN-TÊTE ANIMÉ ===================== -->
 <a href="https://github.com/valdouz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=FF4F9A&center=true&vCenter=true&width=640&height=75&lines=Salut%2C+moi+c%27est+Akira+%F0%9F%91%8B;D%C3%A9veloppeuse+en+devenir+%E2%9C%A8;%C3%89tudiante+en+BTS+SIO+SLAM;Web+%E2%80%A2+Bots+%E2%80%A2+Self-hosting" alt="Akira — en-tête animé" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=FF4F9A&center=true&vCenter=true&width=640&height=75&lines=Salut%2C+moi+c%27est+Akira+%F0%9F%91%8B;D%C3%A9veloppement+web+%E2%9C%A8;BTS+SIO+SLAM+%E2%80%94+2e+ann%C3%A9e;Web+%E2%80%A2+Bots+%E2%80%A2+Self-hosting" alt="Akira, en-tête animé" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
 
 - 🎓 En **2ᵉ année de BTS SIO – option SLAM** (développement d'applications)
 - 💻 Je code surtout en **JavaScript / TypeScript** et **Python**
-- 🧩 Passionnée de **web**, de **bots** et d'**auto-hébergement** — je fais tourner mon propre petit homelab 🏠
+- 🧩 Le **web**, les **bots** et l'**auto-hébergement** — je fais tourner mon propre petit homelab 🏠
 - 🌱 En train de me (re)mettre sérieusement au dev : chaque projet est un terrain d'apprentissage
 - 🌍 Souvent en vadrouille, j'aime pouvoir piloter mes serveurs depuis n'importe où
 - 🎧 Loin du clavier : **musique**, **régie live** & **photo**
